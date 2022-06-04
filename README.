@@ -1,0 +1,39 @@
+# Overview
+
+AMMON: A GREAT SERVAN 
+BOOK OF MORMON VIDEOGAMES 
+
+![AMMON](assets/tiles/AMMON.png?raw=true "Title")
+
+This videogame series were created to teach children the stories of the Book of Mormon: Another Testament of Jesus Christ
+This game is the story of AMMON a prophet of the Lord. 
+
+MOVE FORWARD: RIGHT ARROW or D
+MOVE BACKWARD: LEFT ARROW or a
+JUMP: UP ARROW or a
+
+FIRST LEVEL: Collet sheeps for the king
+
+
+{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
+
+[Software Demo Video](https://www.loom.com/share/f16ccca170c74b56a22c06fc3fc4a387)
+
+# Development Environment
+
+This game was created with Python and the Arcade library to create a 2D platformer game. Sprites and the Tiled Map Editor were created to create this game.
+
+Arcade is an easy-to-learn Python library for creating 2D video games. It is ideal for people learning to program, or developers that want to code a 2D game without learning a complex framework.
+
+# Useful Websites
+
+{Make a list of websites that you found helpful in this project}
+* [Aecade](https://api.arcade.academy/en/latest/examples/platform_tutorial/index.html)
+* [Tiled](https://developer.mozilla.org/en-US/docs/Games/Techniques/Tilemaps)
+
+# Future Work
+
+{Make a list of things that you need to fix, improve, and add in the future.}
+* Add enemies
+* Add diferent maps
+* Include more levels
